@@ -2941,7 +2941,7 @@ table tbody tr td {
 
 .navbar-nav > li > a {
 	font-size: 14px;
-	text-transform: capitalize;
+	text-transform: uppercase;
 	font-weight: 500;
 	line-height: 100px;
 	color: #ffffff;
