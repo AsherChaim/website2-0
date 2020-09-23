@@ -5184,7 +5184,7 @@ li.dropdown-submenu > ul.dropdown-menu > li.has-dropdown > ul.dropdown-menu.left
 
 .hero-search .slider--content h1 {
 	font-size: 100px;
-	font-weight: 700;
+	font-weight:50;
 	color: #fffced;
 	text-transform: uppercase;
 }
@@ -8307,10 +8307,10 @@ ul.comments-list ul.comment-children {
 	width: 40px;
 	line-height: 100px;
 	margin: -50px 0 0 0;
-	color: #ffffff;
+	color: #fffced;
 	font-size: 0;
 	font-weight: 400;
-	background-color: #34495e;
+	background-color: transparent;
 	text-align: center;
 	padding: 0;
 	border-radius: 0;
@@ -8322,7 +8322,7 @@ ul.comments-list ul.comment-children {
 }
 
 .slider-navs .owl-controls .owl-nav [class*=owl-]:hover {
-	background-color: rgba(52, 73, 94, 0.8);
+	background-color: rgba(	255, 195, 105, 0.6);
 }
 
 .slider-navs .owl-controls .owl-nav .owl-prev {
