@@ -1669,6 +1669,10 @@ label {
 	font-size: 16px;
 	color: #34495e;
 	margin-bottom: 12px;
+	font-family: 'Montserrat Light', sans-serif;
+	background-color: #f8f8f8;
+	border: 1px solid #eeeeee;
+
 }
 
 select,
@@ -1681,7 +1685,10 @@ textarea.form-control {
 	color: #aaaaaa;
 	line-height: 42px;
 	height: 42px;
-	margin-bottom: 0;
+	width: 500px;
+	margin-left: auto;
+	margin-bottom: 10px;
+	margin-right: auto;
 	box-shadow: none;
 	-moz-box-shadow: none;
 	-webkit-box-shadow: none;
@@ -1690,6 +1697,57 @@ textarea.form-control {
 	-moz-border-radius: 3px;
 	border-radius: 3px;
 }
+
+/*Input Boxes Style*/
+select,
+.city-control,
+textarea.city-control {
+	font-family: 'Montserrat Light', sans-serif;
+	background-color: #f8f8f8;
+	border: 1px solid #eeeeee;
+	font-size: 14px;
+	color: #aaaaaa;
+	line-height: 42px;
+	height: 42px;
+	width: 200px;
+	margin-left: auto;
+	margin-bottom: 10px;
+	margin-right: 10px;
+	box-shadow: none;
+	-moz-box-shadow: none;
+	-webkit-box-shadow: none;
+	padding: 0 18px;
+	-webkit-border-radius: 3px;
+	-moz-border-radius: 3px;
+	border-radius: 3px;
+
+	position: relative;
+}
+
+select,
+.zip-control,
+textarea.zip-control {
+	font-family: 'Montserrat Light', sans-serif;
+	background-color: #f8f8f8;
+	border: 1px solid #eeeeee;
+	font-size: 14px;
+	color: #aaaaaa;
+	line-height: 42px;
+	height: 42px;
+	width: 100px;
+	margin-bottom: 10px;
+	margin-right: 10px;
+	box-shadow: none;
+	-moz-box-shadow: none;
+	-webkit-box-shadow: none;
+	padding: 0 18px;
+	-webkit-border-radius: 3px;
+	-moz-border-radius: 3px;
+	border-radius: 3px;
+
+	position: relative;
+}
+
 
 .form-control:focus,
 textarea.form-control:focus {

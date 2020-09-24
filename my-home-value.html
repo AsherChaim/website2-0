@@ -65,9 +65,9 @@
                                 <a href="#" data-toggle="dropdown" class="dropdown-toggle menu-item">Sell a Home</a>
                                 <ul class="dropdown-menu">
                                     <li><a href="my-home-value.html">My Home Value</a></li>
-                                    <li><a href="recently-sold.html">Recently Sold</a></li>
-                                    <li><a href="home-property.html">Our Approach</a></li>
-                                    <li><a href="home-splash.html">Find an Agent</a></li>
+                                    <!--<li><a href="recently-sold.html">Recently Sold</a></li> -->
+                                    <li><a href="#">Our Approach</a></li>
+                                    <li><a href="find-an-agent.html">Find an Agent</a></li>
                                 </ul>
                             </li>
                             <!-- li end -->
@@ -225,18 +225,15 @@
                             <h2 class="heading--title">Your Home Report</h2>
                             <p>Submit your home information today to get your home report from one of our real estate experts</p>
                             <form name = "home-report-form" class="contact--form mb-40" method="POST" data-netlify="true">
-                            <br>
-                            <label class=".ml-xs"><input type="text" name="name"  placeholder="Name"/></label>   
-                            
-                            <label class=".ml-xs"><input type="email" name="email" placeholder="Email Address"/></label>
-                            <br>
-                            <label class=""><input type="address" name="adress" placeholder="Address"/></label>
-                            <label class=""><input type="city" name="city" placeholder="City"/></label>
-                             <br>
-                            <label class=""><input type="zip" name="zip" placeholder="Zipcode"/></label>
-                            <br>
-                            <button class="btn btn--primary" type="submit">Submit</button>
-                        </form>
+                                <br>
+                                <input class="form-control" type="text" name="name"  placeholder="Name"></input>  
+                                <input class="form-control" type="email" name="email" placeholder="Email" ></input>
+                                <input class="form-control" type="adress" name="address" placeholder="Address" ></input>
+                                <input class="city-control" type="city" name="city" placeholder="City" ></input>
+                                <input class="zip-control" type="zip" name="zip" placeholder="Zip" ></input>
+                                <br><br>
+                                <button class="btn btn--primary" type="submit">Submit</button>                       
+                            </form>
                         </div>
                         <!-- .heading-title end -->
                     </div>
