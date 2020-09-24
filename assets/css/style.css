@@ -220,7 +220,7 @@ h6 {
 
 p {
 	color: #aaaaaa;
-	font-size: 14px;
+	font-size: 16px;
 	font-weight: 400;
 	line-height: 26px;
 }
@@ -287,6 +287,10 @@ p {
 /* Text Color */
 .text-white {
 	color: #ffffff !important;
+}
+
+.text-orange {
+	color: #ffc369 !important;
 }
 
 .text-gray {
