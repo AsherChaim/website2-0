@@ -1698,7 +1698,32 @@ textarea.form-control {
 	border-radius: 3px;
 }
 
-/*Input Boxes Style*/
+.form-control:focus,
+textarea.form-control:focus {
+	border-color: #ffc369;
+	box-shadow: none;
+	-moz-box-shadow: none;
+	-webkit-box-shadow: none;
+}
+.form-control::-webkit-input-placeholder {
+ color: #aaaaaa;
+}
+.form-control:-moz-placeholder {
+ color: #aaaaaa;
+}
+.form-control::-moz-placeholder {
+ color: #aaaaaa;
+}
+.form-control:-ms-input-placeholder {
+ color: #aaaaaa;
+}
+
+textarea.form-control {
+	height: 200px;
+}
+
+
+/*Custom Input Boxes Style*/
 select,
 .city-control,
 textarea.city-control {
@@ -1709,7 +1734,7 @@ textarea.city-control {
 	color: #aaaaaa;
 	line-height: 42px;
 	height: 42px;
-	width: 200px;
+	width: 180px;
 	margin-left: auto;
 	margin-bottom: 10px;
 	margin-right: 10px;
@@ -1722,6 +1747,26 @@ textarea.city-control {
 	border-radius: 3px;
 
 	position: relative;
+}
+
+.city-control:focus,
+textarea.form-control:focus {
+	border-color: #ffc369;
+	box-shadow: none;
+	-moz-box-shadow: none;
+	-webkit-box-shadow: none;
+}
+.city-control::-webkit-input-placeholder {
+ color: #aaaaaa;
+}
+.city-control:-moz-placeholder {
+ color: #aaaaaa;
+}
+.city-control::-moz-placeholder {
+ color: #aaaaaa;
+}
+.city-control:-ms-input-placeholder {
+ color: #aaaaaa;
 }
 
 select,
@@ -1748,30 +1793,27 @@ textarea.zip-control {
 	position: relative;
 }
 
-
-.form-control:focus,
+.zip-control:focus,
 textarea.form-control:focus {
 	border-color: #ffc369;
 	box-shadow: none;
 	-moz-box-shadow: none;
 	-webkit-box-shadow: none;
 }
-.form-control::-webkit-input-placeholder {
+.zip-control::-webkit-input-placeholder {
  color: #aaaaaa;
 }
-.form-control:-moz-placeholder {
+.zip-control:-moz-placeholder {
  color: #aaaaaa;
 }
-.form-control::-moz-placeholder {
+.zip-control::-moz-placeholder {
  color: #aaaaaa;
 }
-.form-control:-ms-input-placeholder {
+.zip-control:-ms-input-placeholder {
  color: #aaaaaa;
 }
 
-textarea.form-control {
-	height: 200px;
-}
+
 
 /* Placeholder */
 select {
