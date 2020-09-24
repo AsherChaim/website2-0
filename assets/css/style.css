@@ -2926,11 +2926,13 @@ table tbody tr td {
 .heading .heading--desc {
 	font-family: 'Montserrat Light', sans-serif;
 	color: #aaaaaa;
-	font-size: 14px;
-	font-weight: 400;
-	line-height: 22px;
+	font-size: 17px;
+	font-weight: 500;
+	line-height: 23px;
 	margin-bottom: 0;
 }
+
+
 
 .heading .divider--line + .heading--desc {
 	margin-top: 25px;
