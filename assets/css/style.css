@@ -408,8 +408,8 @@ ul {
 }
 
 section {
-	padding-top: 100px;
-	padding-bottom: 100px;
+	padding-top: 50px;
+	padding-bottom: 50px;
 	overflow: hidden;
 }
 
@@ -2912,7 +2912,7 @@ table tbody tr td {
 	color: #999ea8;
 	font-size: 18px;
 	font-weight: 800;
-	line-height: 1;
+	line-height: 1.5;
 	margin-bottom: 15px;
 	letter-spacing: 0.3px;
 }
