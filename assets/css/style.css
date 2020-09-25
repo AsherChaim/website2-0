@@ -1818,11 +1818,14 @@ textarea.form-control:focus {
 /* Placeholder */
 select {
 	width: 100%;
+	margin-left: auto;
+	margin-right:auto;
 	-webkit-appearance: none;
 	-moz-appearance: none;
 	-ms-appearance: none;
 	-o-appearance: none;
 	appearance: none;
+	position: absolute;
 }
 
 .select--box {
@@ -6799,6 +6802,7 @@ li.dropdown-submenu > ul.dropdown-menu > li.has-dropdown > ul.dropdown-menu.left
 	border-radius: 4px;
 	padding: 40px;
 	margin-bottom: 30px;
+	width: 100%;
 }
 
 .form-box .form-group .form-control {
