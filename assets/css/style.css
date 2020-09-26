@@ -4300,8 +4300,9 @@ li.dropdown-submenu > ul.dropdown-menu > li.has-dropdown > ul.dropdown-menu.left
 
 .navbar-nav.nav-pos-center {
 	position: absolute;
-	left: 50%;
+	left: 55%;
 	transform: translatex(-50%);
+	min-width: 1200px;
 }
 }
 
