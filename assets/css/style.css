@@ -3584,11 +3584,12 @@ ul.dropdown-menu > li.has-dropdown > a:before {
 
 .navbar-nav li a {
 	line-height: 36px;
-	color: #ffffff;
+	color: #fffced;
 	padding-right: 0;
 	padding-left: 10px;
 	padding-top: 0;
 	background-color: #303030;
+	color: #ff
 }
 
 .navbar-nav > li > .menu-item:before {
@@ -3833,7 +3834,7 @@ li.has-dropdown > ul.dropdown-menu > li.dropdown-submenu > a:before,
 
 .navbar-nav > li > a {
 	line-height: 36px !important;
-	color: #ffffff !important;
+	color: #ffc369 !important;
 	padding-right: 0;
 	padding-left: 0;
 	padding-top: 0;
