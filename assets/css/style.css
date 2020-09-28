@@ -8127,13 +8127,17 @@ ul.comments-list ul.comment-children {
 
 /* Footer Bar */
 .footer--bar {
-	border-top: 1px solid #eeeeee;
+	border-top: 1px solid #ffc369;
 	padding-top: 32px;
 	padding-bottom: 32px;
 }
-
+.footer--copyright {
+	padding-top: 20px;
+	background-color: #303030; 
+}
 .footer--copyright span {
-	color: #303030;
+	color: #ffc369;
+	background-color: #303030;
 	font-size: 14px;
 	line-height: 24px;
 	display: block;
@@ -8141,6 +8145,7 @@ ul.comments-list ul.comment-children {
 
 .footer--copyright span a {
 	color: #ffc369;
+	background-color: #303030;
 }
 
 /* Custom, iPhone Retina */
@@ -8179,6 +8184,7 @@ ul.comments-list ul.comment-children {
 
 .footer--copyright {
 	padding-top: 20px;
+	background-color: #303030; 
 }
 }
 
