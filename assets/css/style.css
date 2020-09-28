@@ -3782,7 +3782,7 @@ li.has-dropdown > ul.dropdown-menu > li.dropdown-submenu > a:before,
 
 .affix .navbar-toggle,
  .header-light .navbar-toggle {
-	border-color: #303030;
+	border-color: #ffc369;
 }
 
 .navbar-toggle .icon-bar {
@@ -3791,7 +3791,7 @@ li.has-dropdown > ul.dropdown-menu > li.dropdown-submenu > a:before,
 
 .affix .navbar-toggle .icon-bar,
  .header-light .navbar-toggle .icon-bar {
-	background-color: #34495e;
+	background-color: #ffc369;
 }
 
 .navbar-fixed-top .navbar-collapse {
