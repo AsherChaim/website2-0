@@ -4305,6 +4305,7 @@ li.dropdown-submenu > ul.dropdown-menu > li.has-dropdown > ul.dropdown-menu.left
 	left: 50%;
 	transform: translatex(-50%);
 	min-width: 1030px;
+	/*position: relative; PUTS NAV BAR AT RIGHT  */
 }
 }
 
