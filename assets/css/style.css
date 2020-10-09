@@ -3104,7 +3104,7 @@ ul.dropdown-menu > li.has-dropdown > a:before {
 .dropdown-menu {
 	background-color: transparent;
 	position: relative;
-	width: 100%;
+	width: 110%;
 	border: none;
 	-moz-box-shadow: none;
 	-webkit-box-shadow: none;
