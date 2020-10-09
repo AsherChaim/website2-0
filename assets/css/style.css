@@ -193,6 +193,9 @@ h1 {
 	font-size: 52px;
 }
 
+h1 span::first-letter{
+	font-size: 120px;
+}
 
 .h2,
 h2 {
@@ -5269,11 +5272,12 @@ li.dropdown-submenu > ul.dropdown-menu > li.has-dropdown > ul.dropdown-menu.left
 	z-index: 2;
 }
 
-.hero-search .slider--content h1 {
+.hero-search .slider--content h1{
 	font-size: 50px;
 	font-weight: 500;
 	color: #ffffff;
 }
+
 
 .hero-search .less--options {
 	position: relative;
@@ -5302,11 +5306,13 @@ li.dropdown-submenu > ul.dropdown-menu > li.has-dropdown > ul.dropdown-menu.left
 }
 
 .hero-search .slider--content h1 {
-	font-size: 100px;
+	font-size: 110px;
 	font-weight:50;
 	color: #fffced;
 	text-transform: uppercase;
 }
+
+
 
 .hero-search .search-properties {
 	position: static;
