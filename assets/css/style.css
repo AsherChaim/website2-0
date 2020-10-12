@@ -3083,7 +3083,7 @@ table tbody tr td {
 /* Menu Level #1 */
 li.has-dropdown > a:before {
 	position: absolute;
-	content: "\f107";
+  /*	content: "\f107"; /*dropdown arrow*/ */
 	font-family: fontawesome;
 	right: -13px;
 	top: 0;
