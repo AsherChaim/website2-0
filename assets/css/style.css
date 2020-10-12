@@ -350,7 +350,7 @@ text-center-xs {
 }
 
 /* Small Devices, Tablets */
-@media only screen and (min-width: 768px) and (max-width: 1224px) {
+@media only screen and (min-width: 768px) and (max-width: 1299px) {
 
 text-center-sm {
 	text-align: center !important;
@@ -897,7 +897,7 @@ section {
 }
 }
 
-@media only screen and (min-width: 768px) and (max-width: 1224px) {
+@media only screen and (min-width: 768px) and (max-width: 1299px) {
 
 .text-center-sm {
 	text-align: center !important;
@@ -3466,7 +3466,7 @@ ul.dropdown-menu > li.has-dropdown > a:before {
 }
 
 /* Small Devices, Tablets */
-@media only screen and (min-width: 768px) and (max-width: 1224px) {
+@media only screen and (min-width: 768px) and (max-width: 1299px) {
 
 .header-13 .navbar-header > .logo {
 	position: relative;
@@ -3757,7 +3757,7 @@ li.has-dropdown > ul.dropdown-menu > li.dropdown-submenu > a:before,
 }
 
 /* Small Devices, Tablets */
-@media only screen and (min-width: 768px) and (max-width: 1224px) {
+@media only screen and (min-width: 768px) and (max-width: 1299px) {
 
 .header .container {
 	padding-right: 0;
@@ -4008,7 +4008,7 @@ ul.mega-menu {
 }
 
 /* Small Devices, Tablets */
-@media only screen and (max-width: 1224px) {
+@media only screen and (max-width: 1299px) {
 
 .navbar.navbar--dark .module .module-icon i,
  .navbar.navbar--dark .navbar-nav > li > a {
@@ -5033,7 +5033,7 @@ li.dropdown-submenu > ul.dropdown-menu > li.has-dropdown > ul.dropdown-menu.left
 }
 
 /* Small Devices, Tablets */
-@media only screen and (min-width: 768px) and (max-width: 1224px) {
+@media only screen and (min-width: 768px) and (max-width: 1299px) {
 
 .module {
 	width: 100%;
@@ -5270,16 +5270,12 @@ li.dropdown-submenu > ul.dropdown-menu > li.has-dropdown > ul.dropdown-menu.left
 .hero-search .slider--content {
 	width: 100%;
 	position: absolute;
-	top: 220px;
+	top: 40vh;
 	left: 0;
 	z-index: 2;
 }
 
-.hero-search .slider--content h1{
-	font-size: 50px;
-	font-weight: 500;
-	color: #ffffff;
-}
+
 
 
 
@@ -5310,7 +5306,7 @@ li.dropdown-submenu > ul.dropdown-menu > li.has-dropdown > ul.dropdown-menu.left
 }
 
 .hero-search .slider--content h1 {
-	font-size: 110px;
+	font-size: 100px;
 	font-weight:50;
 	color: #fffced;
 	text-transform: uppercase;
@@ -5422,7 +5418,7 @@ li.dropdown-submenu > ul.dropdown-menu > li.has-dropdown > ul.dropdown-menu.left
 
 .hero-search .slider--content h1 {
 	margin-bottom: 0;
-	font-size: 30px;
+	font-size: 50px;
 }
 .hero-search .slider--content h4 {
 	margin-bottom: 0;
@@ -5619,7 +5615,7 @@ li.dropdown-submenu > ul.dropdown-menu > li.has-dropdown > ul.dropdown-menu.left
 }
 
 /* Small Devices, Tablets */
-@media only screen and (min-width: 768px) and (max-width: 1224px) {
+@media only screen and (min-width: 768px) and (max-width: 1299px) {
 
 .agent-profile .agent--profile-contact li {
 	float: none;
@@ -5770,7 +5766,7 @@ li.dropdown-submenu > ul.dropdown-menu > li.has-dropdown > ul.dropdown-menu.left
 }
 
 /* Small Devices */
-@media only screen and (min-width: 768px) and (max-width: 1224px) {
+@media only screen and (min-width: 768px) and (max-width: 1299px) {
 
 .agency-item .agency--content {
 	padding-left: 290px;
@@ -6091,7 +6087,7 @@ li.dropdown-submenu > ul.dropdown-menu > li.has-dropdown > ul.dropdown-menu.left
 }
 
 /* Small Devices, Tablets */
-@media only screen and (min-width: 768px) and (max-width: 1224px) {
+@media only screen and (min-width: 768px) and (max-width: 1299px) {
 
 .my-properties.properties-list .property-item {
 	display: block;
@@ -6141,7 +6137,7 @@ li.dropdown-submenu > ul.dropdown-menu > li.has-dropdown > ul.dropdown-menu.left
 }
 
 /* Small Devices, Tablets */
-@media only screen and (min-width: 320px) and (max-width: 1224px) {
+@media only screen and (min-width: 320px) and (max-width: 1299px) {
 
 .properties-grid .property-item {
 	max-width: 470px;
@@ -6195,7 +6191,7 @@ li.dropdown-submenu > ul.dropdown-menu > li.has-dropdown > ul.dropdown-menu.left
 }
 
 /* Small Devices, Tablets */
-@media only screen and (min-width: 768px) and (max-width: 1224px) {
+@media only screen and (min-width: 768px) and (max-width: 1299px) {
 
 .properties-list .property-item {
 	max-width: inherit;
@@ -6764,7 +6760,7 @@ li.dropdown-submenu > ul.dropdown-menu > li.has-dropdown > ul.dropdown-menu.left
 }
 
 /* Small Devices, Tablets */
-@media only screen and (min-width: 768px) and (max-width: 1224px) {
+@media only screen and (min-width: 768px) and (max-width: 1299px) {
 
 .properties-split .map-horizontal {
 	position: relative;
@@ -7592,7 +7588,7 @@ ul.comments-list ul.comment-children {
 }
 
 /* Small Devices, Tablets */
-@media only screen and (min-width: 768px) and (max-width: 1224px) {
+@media only screen and (min-width: 768px) and (max-width: 1299px) {
 
 .blog-entry .entry--content {
 	padding: 25px 17px 25px 25px;
@@ -8000,7 +7996,7 @@ ul.comments-list ul.comment-children {
 }
 
 /* Small Devices, Tablets */
-@media only screen and (min-width: 768px) and (max-width: 1224px) {
+@media only screen and (min-width: 768px) and (max-width: 1299px) {
 
 .widget-recent .entry .entry-desc {
 	margin-left: 70px;
@@ -8189,7 +8185,7 @@ ul.comments-list ul.comment-children {
 }
 
 /* Custom, iPhone Retina */
-@media only screen and (min-width: 768px) and (max-width: 1224px) {
+@media only screen and (min-width: 768px) and (max-width: 1299px) {
 
 .widget--about,
  .widget--links {
@@ -8567,7 +8563,7 @@ ul.comments-list ul.comment-children {
 }
 
 /* Small Devices, Tablets */
-@media only screen and (min-width: 768px) and (max-width: 1224px) {
+@media only screen and (min-width: 768px) and (max-width: 1299px) {
 
 .slider-navs .owl-controls .owl-nav .owl-next:before,
  .slider-navs .owl-controls .owl-nav .owl-prev:before {
@@ -8805,7 +8801,7 @@ ul.comments-list ul.comment-children {
 }
 
 /* Small Devices, Tablets */
-@media only screen and (min-width: 768px) and (max-width: 1224px) {
+@media only screen and (min-width: 768px) and (max-width: 1299px) {
 
 .landing-hero {
 	height: auto;
@@ -8853,7 +8849,7 @@ ul.comments-list ul.comment-children {
 }
 
 /* Small Devices, Tablets */
-@media only screen and (min-width: 768px) and (max-width: 1224px) {
+@media only screen and (min-width: 768px) and (max-width: 1299px) {
 
 .about .heading-2 {
 	margin: 0;
