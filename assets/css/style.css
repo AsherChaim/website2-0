@@ -159,7 +159,7 @@ button.btn {
 /* Custom, iPhone Retina */
 /* Small Devices, Tablets */
 /* Medium Devices, Desktops */
-@media only screen and (max-width: 1300px) {
+@media only screen and (max-width: 1225px) {
 
 .fullscreen {
 	height: auto !important;
@@ -350,7 +350,7 @@ text-center-xs {
 }
 
 /* Small Devices, Tablets */
-@media only screen and (min-width: 768px) and (max-width: 1299px) {
+@media only screen and (min-width: 768px) and (max-width: 1224px) {
 
 text-center-sm {
 	text-align: center !important;
@@ -897,7 +897,7 @@ section {
 }
 }
 
-@media only screen and (min-width: 768px) and (max-width: 1299px) {
+@media only screen and (min-width: 768px) and (max-width: 1224px) {
 
 .text-center-sm {
 	text-align: center !important;
@@ -989,7 +989,7 @@ section {
 }
 }
 
-@media (min-width: 1300px) {
+@media (min-width: 1225px) {
 
 .col-md-5ths {
 	width: 20%;
@@ -1072,7 +1072,7 @@ section {
 	height: 800px !important;
 }
 
-@media only screen and (min-width: 1300px) {
+@media only screen and (min-width: 1225px) {
 
 .hidden-lg,
  .hidden-md {
@@ -2624,7 +2624,7 @@ ul.dot-list li i {
 	margin-left: auto;
 }
 
-@media only screen and (max-width: 1300px) {
+@media only screen and (max-width: 1225px) {
 
 #back-to-top.show {
 	opacity: 0;
@@ -3466,7 +3466,7 @@ ul.dropdown-menu > li.has-dropdown > a:before {
 }
 
 /* Small Devices, Tablets */
-@media only screen and (min-width: 768px) and (max-width: 1299px) {
+@media only screen and (min-width: 768px) and (max-width: 1224px) {
 
 .header-13 .navbar-header > .logo {
 	position: relative;
@@ -3757,7 +3757,7 @@ li.has-dropdown > ul.dropdown-menu > li.dropdown-submenu > a:before,
 }
 
 /* Small Devices, Tablets */
-@media only screen and (min-width: 768px) and (max-width: 1299px) {
+@media only screen and (min-width: 768px) and (max-width: 1224px) {
 
 .header .container {
 	padding-right: 0;
@@ -4008,7 +4008,7 @@ ul.mega-menu {
 }
 
 /* Small Devices, Tablets */
-@media only screen and (max-width: 1299px) {
+@media only screen and (max-width: 1224px) {
 
 .navbar.navbar--dark .module .module-icon i,
  .navbar.navbar--dark .navbar-nav > li > a {
@@ -4026,14 +4026,14 @@ ul.mega-menu {
 }
 
 /* Large Devices, Wide Screens */
-@media only screen and (min-width: 1300px) and (max-width: 1600px) {
+@media only screen and (min-width: 1225px) and (max-width: 1600px) {
 
 .navbar-nav > li {
 	margin-right: 30px;
 }
 }
 
-@media only screen and (min-width: 1300px) {
+@media only screen and (min-width: 1225px) {
 
 /* Menu with Dropdown */
 .navbar-nav > li.has-dropdown > ul.dropdown-menu,
@@ -4308,7 +4308,7 @@ li.dropdown-submenu > ul.dropdown-menu > li.has-dropdown > ul.dropdown-menu.left
 	/*position: absolute;*/
 	left: 45%;
 	transform: translatex(-50%);
-	min-width: 1030px;
+	min-width: 850px;
 	position: relative; /*PUTS NAV BAR AT RIGHT  */
 }
 }
@@ -5033,7 +5033,7 @@ li.dropdown-submenu > ul.dropdown-menu > li.has-dropdown > ul.dropdown-menu.left
 }
 
 /* Small Devices, Tablets */
-@media only screen and (min-width: 768px) and (max-width: 1299px) {
+@media only screen and (min-width: 768px) and (max-width: 1224px) {
 
 .module {
 	width: 100%;
@@ -5172,7 +5172,7 @@ li.dropdown-submenu > ul.dropdown-menu > li.has-dropdown > ul.dropdown-menu.left
 }
 
 /* Large Devices, Wide Screens */
-@media only screen and (min-width: 1300px) and (max-width: 1600px) {
+@media only screen and (min-width: 1225px) and (max-width: 1600px) {
 
 .module-search .search-icon i {
 	padding-left: 16px;
@@ -5534,7 +5534,7 @@ li.dropdown-submenu > ul.dropdown-menu > li.has-dropdown > ul.dropdown-menu.left
 }
 }
 
-@media only screen and (min-width: 768px) and (max-width: 1299px) {
+@media only screen and (min-width: 768px) and (max-width: 1224px) {
 
 .agent .agent--details {
 	padding: 20px;
@@ -5619,7 +5619,7 @@ li.dropdown-submenu > ul.dropdown-menu > li.has-dropdown > ul.dropdown-menu.left
 }
 
 /* Small Devices, Tablets */
-@media only screen and (min-width: 768px) and (max-width: 1299px) {
+@media only screen and (min-width: 768px) and (max-width: 1224px) {
 
 .agent-profile .agent--profile-contact li {
 	float: none;
@@ -5770,7 +5770,7 @@ li.dropdown-submenu > ul.dropdown-menu > li.has-dropdown > ul.dropdown-menu.left
 }
 
 /* Small Devices */
-@media only screen and (min-width: 768px) and (max-width: 1299px) {
+@media only screen and (min-width: 768px) and (max-width: 1224px) {
 
 .agency-item .agency--content {
 	padding-left: 290px;
@@ -6091,7 +6091,7 @@ li.dropdown-submenu > ul.dropdown-menu > li.has-dropdown > ul.dropdown-menu.left
 }
 
 /* Small Devices, Tablets */
-@media only screen and (min-width: 768px) and (max-width: 1299px) {
+@media only screen and (min-width: 768px) and (max-width: 1224px) {
 
 .my-properties.properties-list .property-item {
 	display: block;
@@ -6141,7 +6141,7 @@ li.dropdown-submenu > ul.dropdown-menu > li.has-dropdown > ul.dropdown-menu.left
 }
 
 /* Small Devices, Tablets */
-@media only screen and (min-width: 320px) and (max-width: 1299px) {
+@media only screen and (min-width: 320px) and (max-width: 1224px) {
 
 .properties-grid .property-item {
 	max-width: 470px;
@@ -6195,7 +6195,7 @@ li.dropdown-submenu > ul.dropdown-menu > li.has-dropdown > ul.dropdown-menu.left
 }
 
 /* Small Devices, Tablets */
-@media only screen and (min-width: 768px) and (max-width: 1299px) {
+@media only screen and (min-width: 768px) and (max-width: 1224px) {
 
 .properties-list .property-item {
 	max-width: inherit;
@@ -6203,7 +6203,7 @@ li.dropdown-submenu > ul.dropdown-menu > li.has-dropdown > ul.dropdown-menu.left
 }
 }
 
-@media only screen and (min-width: 1300px) and (max-width: 1600px) {
+@media only screen and (min-width: 1225px) and (max-width: 1600px) {
 
 .properties-list .property-item .property--features,
  .properties-list .property-item .property--info {
@@ -6764,7 +6764,7 @@ li.dropdown-submenu > ul.dropdown-menu > li.has-dropdown > ul.dropdown-menu.left
 }
 
 /* Small Devices, Tablets */
-@media only screen and (min-width: 768px) and (max-width: 1299px) {
+@media only screen and (min-width: 768px) and (max-width: 1224px) {
 
 .properties-split .map-horizontal {
 	position: relative;
@@ -6801,7 +6801,7 @@ li.dropdown-submenu > ul.dropdown-menu > li.has-dropdown > ul.dropdown-menu.left
 }
 
 /* Small Devices, Tablets */
-@media only screen and (min-width: 1300px) and (max-width: 1600px) {
+@media only screen and (min-width: 1225px) and (max-width: 1600px) {
 
 .property-single-slider .slide--item {
 	height: 600px;
@@ -7592,14 +7592,14 @@ ul.comments-list ul.comment-children {
 }
 
 /* Small Devices, Tablets */
-@media only screen and (min-width: 768px) and (max-width: 1299px) {
+@media only screen and (min-width: 768px) and (max-width: 1224px) {
 
 .blog-entry .entry--content {
 	padding: 25px 17px 25px 25px;
 }
 }
 
-@media only screen and (min-width: 1300px) and (max-width: 1600px) {
+@media only screen and (min-width: 1225px) and (max-width: 1600px) {
 
 .blog-entry .entry--title h4 {
 	font-size: 15px;
@@ -8000,7 +8000,7 @@ ul.comments-list ul.comment-children {
 }
 
 /* Small Devices, Tablets */
-@media only screen and (min-width: 768px) and (max-width: 1299px) {
+@media only screen and (min-width: 768px) and (max-width: 1224px) {
 
 .widget-recent .entry .entry-desc {
 	margin-left: 70px;
@@ -8189,7 +8189,7 @@ ul.comments-list ul.comment-children {
 }
 
 /* Custom, iPhone Retina */
-@media only screen and (min-width: 768px) and (max-width: 1299px) {
+@media only screen and (min-width: 768px) and (max-width: 1224px) {
 
 .widget--about,
  .widget--links {
@@ -8567,7 +8567,7 @@ ul.comments-list ul.comment-children {
 }
 
 /* Small Devices, Tablets */
-@media only screen and (min-width: 768px) and (max-width: 1299px) {
+@media only screen and (min-width: 768px) and (max-width: 1224px) {
 
 .slider-navs .owl-controls .owl-nav .owl-next:before,
  .slider-navs .owl-controls .owl-nav .owl-prev:before {
@@ -8805,7 +8805,7 @@ ul.comments-list ul.comment-children {
 }
 
 /* Small Devices, Tablets */
-@media only screen and (min-width: 768px) and (max-width: 1299px) {
+@media only screen and (min-width: 768px) and (max-width: 1224px) {
 
 .landing-hero {
 	height: auto;
@@ -8853,7 +8853,7 @@ ul.comments-list ul.comment-children {
 }
 
 /* Small Devices, Tablets */
-@media only screen and (min-width: 768px) and (max-width: 1299px) {
+@media only screen and (min-width: 768px) and (max-width: 1224px) {
 
 .about .heading-2 {
 	margin: 0;
