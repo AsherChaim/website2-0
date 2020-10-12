@@ -5349,7 +5349,7 @@ li.dropdown-submenu > ul.dropdown-menu > li.has-dropdown > ul.dropdown-menu.left
 }
 
 .hero-search .slider--content {
-	top: 120px;
+	top: 40vh;
 }
 
 .hero-search .slider--content form,
@@ -5413,7 +5413,7 @@ li.dropdown-submenu > ul.dropdown-menu > li.has-dropdown > ul.dropdown-menu.left
 @media only screen and (min-width: 768px) and (max-width: 1200px) {
 
 .hero-search .slider--content {
-	top: 150px;
+	top: 40vh;
 }
 
 .hero-search .slider--content h1 {
