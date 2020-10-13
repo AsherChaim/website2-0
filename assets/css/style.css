@@ -76,7 +76,7 @@ html {
 
 body {
     background-color: #fffced;
-	font-family : 'Montserrat Light', sans-serif;
+	font-family : 'Montserrat', sans-serif;
 	font-size: 14px;
 	font-weight: 400;
 	color: #969595;
@@ -127,7 +127,7 @@ a:active {
 }
 
 p {
-	font-family : 'Montserrat Light', sans-serif;
+	font-family : 'Montserrat', sans-serif;
 }
 
 textarea {
@@ -183,7 +183,7 @@ h4,
 h5,
 h6 {
 	color: #fffced;
-	font-family : 'Montserrat Light', sans-serif;
+	font-family : 'Montserrat', sans-serif;
 	margin: 0 0 28px;
 	line-height: 1;
 }
@@ -318,11 +318,11 @@ p {
 }
 
 .font-heading {
-	font-family : 'Montserrat Light', sans-serif;
+	font-family : 'Montserrat', sans-serif;
 }
 
 .font-body {
-	font-family : 'Montserrat Light', sans-serif;
+	font-family : 'Montserrat', sans-serif;
 }
 
 .font-18 {
@@ -1086,7 +1086,7 @@ section {
 .blockquote,
 blockquot {
 	font-size: 14px;
-	font-family: 'Montserrat Light', sans-serif;
+	font-family: 'Montserrat', sans-serif;
 	color: #34495e;
 	font-style: normal;
 	line-height: 26px;
@@ -1098,7 +1098,7 @@ blockquot {
 }
 
 .quote-author {
-	font-family: 'Montserrat Light', sans-serif;
+	font-family: 'Montserrat', sans-serif;
 	display: block;
 	font-size: 13px;
 	font-style: normal;
@@ -1293,7 +1293,7 @@ blockquot {
     #BUTTONS
 \*------------------------------------*/
 .btn {
-	font-family: 'Montserrat Light', sans-serif;
+	font-family: 'Montserrat', sans-serif;
 	position: relative;
 	z-index: 2;
 	font-size: 14px;
@@ -1642,7 +1642,7 @@ blockquot {
 }
 
 .btn--link {
-	font-family: 'Montserrat Light', sans-serif;
+	font-family: 'Montserrat', sans-serif;
 	font-size: 14px;
 	font-weight: 400;
 	text-transform: capitalize;
@@ -1673,7 +1673,7 @@ label {
 	font-size: 16px;
 	color: #34495e;
 	margin-bottom: 12px;
-	font-family: 'Montserrat Light', sans-serif;
+	font-family: 'Montserrat', sans-serif;
 	background-color: #f8f8f8;
 	border: 1px solid #eeeeee;
 
@@ -1682,7 +1682,7 @@ label {
 select,
 .form-control,
 textarea.form-control {
-	font-family: 'Montserrat Light', sans-serif;
+	font-family: 'Montserrat', sans-serif;
 	background-color: #f8f8f8;
 	border: 1px solid #eeeeee;
 	font-size: 14px;
@@ -1731,7 +1731,7 @@ textarea.form-control {
 select,
 .city-control,
 textarea.city-control {
-	font-family: 'Montserrat Light', sans-serif;
+	font-family: 'Montserrat', sans-serif;
 	background-color: #f8f8f8;
 	border: 1px solid #eeeeee;
 	font-size: 14px;
@@ -1776,7 +1776,7 @@ textarea.form-control:focus {
 select,
 .zip-control,
 textarea.zip-control {
-	font-family: 'Montserrat Light', sans-serif;
+	font-family: 'Montserrat', sans-serif;
 	background-color: #f8f8f8;
 	border: 1px solid #eeeeee;
 	font-size: 14px;
@@ -2356,7 +2356,7 @@ ul.dot-list li i {
 }
 
 .accordion .panel .panel--heading a {
-	font-family: 'Montserrat Light', sans-serif;
+	font-family: 'Montserrat', sans-serif;
 	font-size: 18px;
 	color: #34495e;
 	font-weight: 500;
@@ -2539,7 +2539,7 @@ ul.dot-list li i {
 }
 
 .alerts .alert-content p {
-	font-family: 'Montserrat Light', sans-serif;
+	font-family: 'Montserrat', sans-serif;
 	color: #9b9b9b;
 	font-size: 12px;
 	font-weight: 500;
@@ -2912,7 +2912,7 @@ table tbody tr td {
     #Heading
 \*------------------------------------*/
 .heading .heading--subtitle {
-	font-family: 'Montserrat Light', sans-serif;
+	font-family: 'Montserrat', sans-serif;
 	color: #999ea8;
 	font-size: 18px;
 	font-weight: 800;
@@ -2922,7 +2922,7 @@ table tbody tr td {
 }
 
 .heading .heading--title {
-	font-family: 'Montserrat Light', sans-serif;
+	font-family: 'Montserrat', sans-serif;
 	font-size: 36px;
 	font-weight: 500;
 	line-height: 45px;
@@ -2931,7 +2931,7 @@ table tbody tr td {
 }
 
 .heading .heading--desc {
-	font-family: 'Montserrat Light', sans-serif;
+	font-family: 'Montserrat', sans-serif;
 	color: #aaaaaa;
 	font-size: 17px;
 	font-weight: 500;
@@ -4511,7 +4511,7 @@ li.dropdown-submenu > ul.dropdown-menu > li.has-dropdown > ul.dropdown-menu.left
 
 .module--search-box .form-control {
 	color: #f9f9f9;
-	font-family: 'Montserrat Light', sans-serif;
+	font-family: 'Montserrat', sans-serif;
 	font-size: 35px;
 	font-weight: 500;
 	line-height: 70px;
@@ -4626,7 +4626,7 @@ li.dropdown-submenu > ul.dropdown-menu > li.has-dropdown > ul.dropdown-menu.left
 }
 
 .cart-box .cart-overview p {
-	font-family: 'Montserrat Light', sans-serif;
+	font-family: 'Montserrat', sans-serif;
 	font-size: 14px;
 	line-height: 20px;
 	font-weight: 600;
@@ -4646,7 +4646,7 @@ li.dropdown-submenu > ul.dropdown-menu > li.has-dropdown > ul.dropdown-menu.left
 
 .cart-total .total-des,
 .cart-total .total-price {
-	font-family: 'Montserrat Light', sans-serif;
+	font-family: 'Montserrat', sans-serif;
 	font-size: 14px;
 	font-weight: 600;
 	line-height: 1;
@@ -4792,7 +4792,7 @@ li.dropdown-submenu > ul.dropdown-menu > li.has-dropdown > ul.dropdown-menu.left
 	background-color: #ffc369;
 	margin-top: 29px;
 	text-align: center;
-	font-family: 'Montserrat Light', sans-serif;
+	font-family: 'Montserrat', sans-serif;
 	font-size: 14px;
 	font-weight: 500;
 	line-height: 42px;
@@ -4816,7 +4816,7 @@ li.dropdown-submenu > ul.dropdown-menu > li.has-dropdown > ul.dropdown-menu.left
 /* Module Login */
 .module-login .btn-popup {
 	text-align: center;
-	font-family: 'Montserrat Light', sans-serif;
+	font-family: 'Montserrat', sans-serif;
 	font-size: 14px;
 	font-weight: 500;
 	line-height: 100px;
@@ -6666,7 +6666,7 @@ li.dropdown-submenu > ul.dropdown-menu > li.has-dropdown > ul.dropdown-menu.left
 
 .property-review li .comment .date {
 	color: #aaaaaa;
-	font-family: 'Montserrat Light', sans-serif;
+	font-family: 'Montserrat', sans-serif;
 	font-size: 12px;
 	font-weight: 400;
 	line-height: 30px;
@@ -7042,7 +7042,7 @@ li.dropdown-submenu > ul.dropdown-menu > li.has-dropdown > ul.dropdown-menu.left
 }
 
 .entry--meta {
-	font-family: 'Montserrat Light', sans-serif;
+	font-family: 'Montserrat', sans-serif;
 	font-size: 12px;
 	font-weight: 400;
 	text-transform: capitalize;
@@ -7081,7 +7081,7 @@ li.dropdown-submenu > ul.dropdown-menu > li.has-dropdown > ul.dropdown-menu.left
 
 .blog-entry .entry--title h4 {
 	color: #fffced;
-	font-family: 'Montserrat Light', sans-serif;
+	font-family: 'Montserrat', sans-serif;
 	font-size: 18px;
 	font-weight: 500;
 	line-height: 28px;
@@ -7275,7 +7275,7 @@ li.dropdown-submenu > ul.dropdown-menu > li.has-dropdown > ul.dropdown-menu.left
 }
 
 .entry-prev-next p {
-	font-family: 'Montserrat Light', sans-serif;
+	font-family: 'Montserrat', sans-serif;
 	font-size: 12px;
 	line-height: 1;
 	text-transform: capitalize;
@@ -7395,7 +7395,7 @@ ul.comments-list .comment-body .comment {
 
 ul.comments-list .comment-body .comment h6 {
 	font-size: 18px;
-	font-family: 'Montserrat Light', sans-serif;
+	font-family: 'Montserrat', sans-serif;
 	font-weight: 500;
 	text-transform: capitalize;
 	margin-bottom: 19px;
@@ -7407,7 +7407,7 @@ ul.comments-list .comment-body .comment h6 {
 
 ul.comments-list .comment-body .comment .date {
 	color: #aaaaaa;
-	font-family: 'Montserrat Light', sans-serif;
+	font-family: 'Montserrat', sans-serif;
 	font-size: 12px;
 	font-weight: 400;
 	line-height: 30px;
@@ -7638,7 +7638,7 @@ ul.comments-list ul.comment-children {
 }
 
 .widget .widget--title h5 {
-	font-family: 'Montserrat Light', sans-serif;
+	font-family: 'Montserrat', sans-serif;
 	color: #34495e;
 	font-size: 18px;
 	font-weight: 500;
@@ -7838,7 +7838,7 @@ ul.comments-list ul.comment-children {
 }
 
 .widget-recent-posts .entry .entry-title a {
-	font-family: 'Montserrat Light', sans-serif;
+	font-family: 'Montserrat', sans-serif;
 	color: #34495e;
 	font-size: 14px;
 	font-weight: 400;
@@ -7851,7 +7851,7 @@ ul.comments-list ul.comment-children {
 }
 
 .widget-recent-posts .entry .entry-desc .entry-meta a {
-	font-family: 'Montserrat Light', sans-serif;
+	font-family: 'Montserrat', sans-serif;
 	font-size: 12px;
 	line-height: 26px;
 	color: #bdbdbd;
@@ -7962,7 +7962,7 @@ ul.comments-list ul.comment-children {
 	font-weight: 700;
 	line-height: 1;
 	text-transform: capitalize;
-	font-family: 'Montserrat Light', sans-serif;
+	font-family: 'Montserrat', sans-serif;
 }
 
 .widget-recent-products .product .product-title a:hover {
@@ -7970,7 +7970,7 @@ ul.comments-list ul.comment-children {
 }
 
 .widget-recent-products .product .product-desc .product-meta {
-	font-family: 'Montserrat Light', sans-serif;
+	font-family: 'Montserrat', sans-serif;
 	font-size: 13px;
 	font-weight: 600;
 	line-height: 20px;
@@ -8019,7 +8019,7 @@ ul.comments-list ul.comment-children {
 }
 
 .footer-widget .widget--title h5 {
-	font-family: 'Montserrat Light', sans-serif;
+	font-family: 'Montserrat', sans-serif;
 	color: #ffc369;
 	font-size: 12px;
 	font-weight: 600;
@@ -8663,7 +8663,7 @@ ul.comments-list ul.comment-children {
 }
 
 .landing-hero p {
-	font-family: 'Montserrat Light', sans-serif;
+	font-family: 'Montserrat', sans-serif;
 	font-size: 18px;
 	line-height: 27px;
 }
@@ -8917,7 +8917,7 @@ ul.comments-list ul.comment-children {
     #CTA
 \*------------------------------------*/
 .cta h3 {
-	font-family: 'Montserrat Light', sans-serif;
+	font-family: 'Montserrat', sans-serif;
 	font-size: 30px;
 	font-weight: 500;
 	line-height: 42px;
@@ -9135,7 +9135,7 @@ ul.comments-list ul.comment-children {
 
 .gmap_marker .address-map .address-map-date .address-map-price {
 	color: #ffc369;
-	font-family: Montserrat Light;
+	font-family: Montserrat;
 	font-size: 18px;
 	font-weight: 500;
 	line-height: 30px;
