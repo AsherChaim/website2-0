@@ -5473,8 +5473,8 @@ li.dropdown-submenu > ul.dropdown-menu > li.has-dropdown > ul.dropdown-menu.left
 
 .agent .agent--details p {
 	color: #fffced;
-	margin-bottom: 23px;
-	font-size: 13px;
+	margin-bottom: 0px;
+	font-size: 14px;
 }
 
 .agent .agent--details .agent--social-links a {
