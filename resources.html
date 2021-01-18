@@ -203,9 +203,11 @@
                             <br><br>
                             </p>
 
-                            <form name = "resources-form" class="contact--form mb-40" method="POST" data-netlify="true" action="/resources-submission-success.html">
-                                <br>
-                                <input class="form-control" type="text" name="name" required  placeholder="Name"> </input>  
+                            <form name = "resources-form" class="contact--form mb-40" method="POST" netlify-honeypot="bot-field" data-netlify="true" action="/resources-submission-success.html">
+                                <p class="hidden">
+                                    <label>Don’t fill this out if you’re human: <input name="bot-field" /></label>
+                                </p>
+                                <input class="form-control" type="text" name="name" required  placeholder="Name"> </input> 
                                 <input class="form-control" type="email" name="email" required  placeholder="Email" ></input> 
                                 <input class="form-control" type="tel" name="phone" required  placeholder="Phone" ></input>
                                 <input class="form-control" type="subject" name="subject" placeholder="Subject (optional)" ></input>
@@ -292,7 +294,10 @@
                             </div>
                             <div class="widget--content">
                                 
-                                <form name = "footer-contact-form" class="contact--form mb-40" method="POST" data-netlify="true">
+                                <form name = "footer-contact-form" class="contact--form mb-40" method="POST" netlify-honeypot="bot-field" data-netlify="true">
+                                    <p class="hidden">
+                                        <label>Don’t fill this out if you’re human: <input name="bot-field" /></label>
+                                    </p>
                                     <input class="form-control" type="text" name="name" required  placeholder="Name"></input>  
                                     <input class="form-control" type="email" name="email" required placeholder="Email" ></input>
                                   <button class="btn btn--primary" type="submit">Submit</button>

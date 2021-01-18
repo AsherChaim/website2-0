@@ -254,8 +254,11 @@
                         <div class="heading heading-2 text-center mb-70">
                             <h2 class="heading--title">Your Home Report</h2>
                             <p>Submit your home information today to get your home report from one of our real estate experts</p>
-                            <form name = "home-report-form" class="contact--form mb-40" method="POST" data-netlify="true">
+                            <form name = "home-report-form" class="contact--form mb-40" method="POST" netlify-honeypot="bot-field" data-netlify="true">
                                 <br>
+                                <p class="hidden">
+                                        <label>Don’t fill this out if you’re human: <input name="bot-field" /></label>
+                                </p>
                                 <input class="form-control" type="text" name="name" required  placeholder="Name"></input>  
                                 <input class="form-control" type="email" name="email" required placeholder="Email" ></input>
                                 <input class="form-control" type="adress" name="address" placeholder="Address" ></input>
@@ -335,7 +338,10 @@
                             </div>
                             <div class="widget--content">
                                 
-                                <form name = "footer-contact-form" class="contact--form mb-40" method="POST" data-netlify="true">
+                                <form name = "footer-contact-form" class="contact--form mb-40" method="POST" netlify-honeypot="bot-field" data-netlify="true">
+                                    <p class="hidden">
+                                        <label>Don’t fill this out if you’re human: <input name="bot-field" /></label>
+                                    </p>
                                     <input class="form-control" type="text" name="name" required  placeholder="Name"></input>  
                                     <input class="form-control" type="email" name="email" required placeholder="Email" ></input>
                                     
