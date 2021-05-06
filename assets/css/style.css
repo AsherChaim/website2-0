@@ -412,7 +412,6 @@ ul {
 }
 
 section {
-	padding-top: 50px;
 	padding-bottom: 50px;
 	overflow: hidden;
 }
@@ -1312,6 +1311,26 @@ blockquot {
 	transition: all 0.3s ease;
 }
 
+.btn2 {
+	font-family: 'Montserrat', sans-serif;
+	position: relative;
+	z-index: 2;
+	font-size: 18px;
+	font-weight: 600;
+	text-transform: uppercase;
+	text-align: center;
+	border-radius: 4px;
+	padding: 15px;
+	line-height: 39px;
+	width: 450px;
+	height: 62px;
+	border: none;
+	-webkit-transition: all 0.3s ease;
+	-moz-transition: all 0.3s ease;
+	-o-transition: all 0.3s ease;
+	transition: all 0.3s ease;
+}
+
 .btn.active,
 .btn:active {
 	-moz-box-shadow: none;
@@ -1325,6 +1344,8 @@ blockquot {
 	color: #ffffff;
 	border: 2px solid transparent;
 }
+
+
 
 .btn--primary:active,
 .btn--primary:focus,
