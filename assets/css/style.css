@@ -107,6 +107,8 @@ a {
 	-o-transition: all 0.3s ease;
 	transition: all 0.3s ease;
 	color: #ffc369;
+	font-size: 18px;
+	font-weight: bold;
 }
 
 a:hover {
@@ -1316,7 +1318,7 @@ blockquot {
 	font-family: 'Montserrat', sans-serif;
 	position: relative;
 	z-index: 2;
-	font-size: 18px;
+	font-size: 30px;
 	font-weight: 600;
 	text-transform: uppercase;
 	text-align: center;
@@ -1324,6 +1326,26 @@ blockquot {
 	padding: 15px;
 	line-height: 39px;
 	width: 450px;
+	height: 62px;
+	border: none;
+	-webkit-transition: all 0.3s ease;
+	-moz-transition: all 0.3s ease;
+	-o-transition: all 0.3s ease;
+	transition: all 0.3s ease;
+}
+
+.btn3 {
+	font-family: 'Montserrat', sans-serif;
+	position: relative;
+	z-index: 2;
+	font-size: 24px;
+	font-weight: 600;
+	text-transform: uppercase;
+	text-align: center;
+	border-radius: 4px;
+	padding: 0;
+	line-height: 39px;
+	width: 250px;
 	height: 62px;
 	border: none;
 	-webkit-transition: all 0.3s ease;
