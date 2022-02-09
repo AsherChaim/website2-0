@@ -5896,7 +5896,7 @@ li.dropdown-submenu > ul.dropdown-menu > li.has-dropdown > ul.dropdown-menu.left
 	position: absolute;
 	left: 0;
 	bottom: -200%;
-	padding: 31px 35px 37px;
+	padding: 25px 25px 20px;
 }
 
 .agent:hover .agent--details {
